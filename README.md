@@ -6,7 +6,7 @@
 
 Projeto construído do evento Next Level Week da Rocketseat.
 
-[🔗 Clique aqui para acessar](https://alansimao.github.io/NLW-eSports)
+[🔗 Clique aqui para acessar](https://alansimao.github.io/NLW-eSports/)
 
 ## 🛠 Tecnologias
 
@@ -16,4 +16,4 @@ Projeto construído do evento Next Level Week da Rocketseat.
 
 ## 📩 Contato
 
-alansimaodasilva@gmail.com
+simao.alan01@gmail.com
